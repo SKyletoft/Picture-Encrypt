@@ -1,0 +1,6 @@
+/home/skyletoft/Projects/PictureEncryptionEncrypt/PictureEncryption/bin/Debug/PictureEncryption.exe
+/home/skyletoft/Projects/PictureEncryptionEncrypt/PictureEncryption/bin/Debug/PictureEncryption.pdb
+/home/skyletoft/Projects/PictureEncryptionEncrypt/PictureEncryption/obj/x86/Debug/PictureEncryption.csprojAssemblyReference.cache
+/home/skyletoft/Projects/PictureEncryptionEncrypt/PictureEncryption/obj/x86/Debug/PictureEncryption.csproj.CoreCompileInputs.cache
+/home/skyletoft/Projects/PictureEncryptionEncrypt/PictureEncryption/obj/x86/Debug/PictureEncryption.exe
+/home/skyletoft/Projects/PictureEncryptionEncrypt/PictureEncryption/obj/x86/Debug/PictureEncryption.pdb
